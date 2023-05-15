@@ -1,6 +1,6 @@
 
-let name = 'Mosh';
-console.log(name);
+// let name = 'Mosh';
+// console.log(name);
 
 // Cannot be a reserved keyword
 // Should be meaningful
@@ -8,4 +8,8 @@ console.log(name);
 // Cannot cotain a space or hyohen (-)
 // Are case-sensitive
 
-let firstName;
+// let firstName;
+
+const interestRate = 0.3;
+interestRate = 1;
+console.log(interestRate);
