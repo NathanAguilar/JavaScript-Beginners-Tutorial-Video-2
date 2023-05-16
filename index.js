@@ -23,7 +23,8 @@ let selectedColor = null;
 */
 
 
-let person = {
+/*
+ let person = {
     name: 'Mosh', 
     age: 30
 
@@ -36,3 +37,8 @@ person.name = 'John';
 let selection = 'name';
 person[Selection] = 'Mary';
 console.log(person.name);
+*/
+
+let selectedColor = ['red', 'blue'];
+selectedColor[2] = 1;
+console.log(selectedColor.length);
