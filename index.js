@@ -12,4 +12,10 @@
 
 const interestRate = 0.3;
 interestRate = 1;
-console.log(interestRate);
+console.log(interestRate); 
+
+let name = 'Mosh'; // String Literal
+let age = 30; // number Literal
+let isApproved = false; // Bollean Literal 
+let firstName = undefined;
+let selectedColor = null;
